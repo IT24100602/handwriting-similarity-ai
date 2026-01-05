@@ -1,7 +1,0 @@
-streamlit
-opencv-python-headless
-numpy
-Pillow
-scikit-image
-scikit-learn
-PyPDF2
